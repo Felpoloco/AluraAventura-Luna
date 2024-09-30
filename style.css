@@ -1,4 +1,5 @@
 body {
+    /*Kauã Luna Braga 3D 29/09/2024*/
     background-color: #1D4221;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
@@ -25,7 +26,7 @@ button:hover{
 .passo.ativo {
     display:block;
 }
-
+/*Kauã Luna Braga 3D 29/09/2024*/
 main {
     text-align: center;
     max-width: 90%;
@@ -44,6 +45,4 @@ img {
     color: rgb(190,0,0);
 }
 
-.eu{
-    margin-bottom: 90px;
-}
+/*Kauã Luna Braga 3D 29/09/2024*/
